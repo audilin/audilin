@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @audilin
-- 👀 I’m interested in ... C++, Python, Java
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Python, Java, SML
+- 🌱 I’m currently learning ... SML
 - 📫 How to reach me ... [linkedin](https://www.linkedin.com/in/audi-lin/)
 
 <!---
